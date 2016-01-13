@@ -11,7 +11,7 @@ public class A {
 	}
 
 	public int getPrivateInteger() {
-		return 24;
+		return mPrivateInteger;
 	}
 
 	public String getPrivateString() {
