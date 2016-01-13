@@ -6,7 +6,7 @@ public class A {
 	private String mPrivateString;
 
 	public A() {
-		mPrivateInteger = 24;
+		mPrivateInteger = 42;
 		mPrivateString = "DEADBEEF";
 	}
 
