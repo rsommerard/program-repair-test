@@ -7,11 +7,11 @@ public class A {
 
 	public A() {
 		mPrivateInteger = 42;
-		mPrivateString = "DEADBEEF";
+		mPrivateString = "BEEF";
 	}
 
 	public int getPrivateInteger() {
-		return mPrivateInteger;
+		return 24;
 	}
 
 	public String getPrivateString() {
